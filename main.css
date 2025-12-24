@@ -1,0 +1,19 @@
+nav{
+    padding: 25.5px 42px;
+}
+
+.navbar-brand{
+    font-size: 20px;
+    line-height: 30px;
+    font-family: "Epilogue";
+    font-weight: 600;
+    color: #2D2D2D;
+}
+
+.navbar-nav{
+    font-family: "Epilogue";
+    font-size: 17px;
+    line-height: 27px;
+    font-weight: 400;
+    color: #2D2D2D;
+}
