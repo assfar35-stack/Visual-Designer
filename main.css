@@ -18,3 +18,41 @@ nav{
     color: #2D2D2D;
     gap: 24px;
 }
+
+
+.logo-bar{
+    padding: 42px 68px;
+    margin: 0px auto;
+}
+
+.skills-section{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 24px;
+    margin: 42px auto;
+    text-align: center;
+    max-width: 1230px;
+}
+
+.card{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding: 64px 42px;
+    max-width: 394px;
+    border: none;
+
+}
+
+.card-img{
+    margin-bottom: 42px;
+    width: 124px;
+    height: 124px;
+}
+
+.card-content{
+    max-width: 310px;
+    font-family: "Epilogue";
+}
