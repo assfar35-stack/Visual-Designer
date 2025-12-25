@@ -56,3 +56,30 @@ nav{
     max-width: 310px;
     font-family: "Epilogue";
 }
+
+.card-content h3{
+    font-weight: 600;
+    font-size: 27px;
+    line-height: 48px;
+}
+
+.card-content p{
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 27px;
+}
+
+.card-text h5{
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 30px;
+    font-family: "Epilogue";
+    padding-top: 24px;
+}
+
+.card-text p{
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 27px;
+    font-family: "Epilogue";
+}
